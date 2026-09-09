@@ -33,9 +33,20 @@ Welcome to my GitHub portfolio! I'm building this space to showcase practical pr
 
 ## 📂 Featured Projects
 
-Projects coming soon...
+### 🏦 AML Transaction Monitoring
+Synthetic transaction-monitoring case study covering alert detection, red-flag analysis, risk scoring and investigation disposition.
 
-I’m currently building practical, synthetic-data projects to demonstrate financial crime investigation and analytical skills.
+🔗 [View Project](https://github.com/Naveen-Fincrime/aml-transaction-monitoring-case-study)
+
+### 🔎 KYC & Enhanced Due Diligence
+Synthetic customer-risk assessment demonstrating KYC review, risk scoring, EDD triggers and investigation recommendations.
+
+🔗 [View Project](https://github.com/Naveen-Fincrime/kyc-edd-customer-risk-assessment)
+
+### 🛡️ Sanctions Screening & Name Matching
+Synthetic sanctions-screening workflow covering name normalization, fuzzy similarity, alert prioritization and analyst review.
+
+🔗 [View Project](https://github.com/Naveen-Fincrime/sanctions-screening-name-matching)
 
 ---
 
@@ -47,7 +58,7 @@ I'm interested in opportunities where I can apply my experience in **Financial C
 
 ## 📫 Connect With Me
 
-- LinkedIn: *Coming soon*
+- LinkedIn: [Naveen Subramanian](https://www.linkedin.com/in/naveen-subramanian-036844258)
 - GitHub: [@Naveen-Fincrime](https://github.com/Naveen-Fincrime)
 
 ---
